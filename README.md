@@ -28,15 +28,6 @@ This project presents a comprehensive analysis of **government responses to COVI
 
 ---
 
-## 📂 Project Structure
-    data/             # Raw and processed datasets
-    notebooks/        # Jupyter notebooks with EDA and modeling
-    src/              # Scripts for regression, clustering, ranking
-    results/          # Visualizations and analysis outputs
-    README.md         # Documentation
-
----
-
 ## 📈 Results Snapshot
 - Domestic restrictions **significantly reduced cases**.  
 - Economic support correlated with **higher cases and deaths** (likely due to increased mobility or reverse causality).  
